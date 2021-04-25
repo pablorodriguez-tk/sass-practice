@@ -4,7 +4,7 @@ section {
   @include respond-to(800px) {
     background-color: red;
   }
-  background-color: $lightgrey;
+  background-color: $color-lightgrey;
   padding: $padding;
 }
 
